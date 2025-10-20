@@ -26,5 +26,6 @@ It demonstrates database schema design for an E-commerce system.
 
 ## 🛠 Tools Used
 - MySQL Workbench
+- draw.io for er digrams
 
 
